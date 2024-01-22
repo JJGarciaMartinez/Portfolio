@@ -1,0 +1,41 @@
+/*RESPONSIVE*/
+@media screen and (max-width: 900px) {
+  .mail {
+    font-size: 30em;
+    display: none;
+    padding: 0 10px;
+    min-height: 50vh;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .popup-image img {
+    width: 95%;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  header ul li a {
+    font-size: 2em;
+    padding: 6px 7px 0 7px;
+  }
+}
+
+@media screen and (max-width: 1090px) {
+  header .logo {
+    font-size: 2.5em;
+  }
+}
+@media screen and (max-width: 930px) {
+  header .logo {
+    font-size: 2em;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .text2 {
+    font-size: 1em;
+  }
+}
